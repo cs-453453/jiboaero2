@@ -1,1 +1,1 @@
-This themepack is intended to showcase what Jibo might've looked like if he had kept his UI from the 2014 Indiegogo trailer.
+This themepack makes Jibo's UI resemble that of the style of the early 2000s (known as Frutiger Areo).
